@@ -1,0 +1,5 @@
+Memory_Log_File:C:\\Code\\attestation_my_try\\attestation\\EIC Workshop\\Simulator TL 500\\dump_values
+Packet_ID_File:C:\\Code\\attestation_my_try\\attestation\\EIC Workshop\\Simulator TL 500\\packetID
+RTU_IP:192.168.0.43
+RTU_Port:2404
+Attest_Time_Threshold:105

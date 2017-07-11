@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6115A651
+eax=49435341 ebx=0028CC9C ecx=0028BEA0 edx=49435341 esi=612F166C edi=49435341
+ebp=0028C728 esp=0028C724 program=C:\Code\attestation_my_try\attestation\EIC Workshop\Simulator TL 500\dist\Debug\Cygwin-Windows\simulator_tl_500.exe, pid 9676, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028C728  6115A651 (49435341, 0028BF0C, 0028C818, 0028C814)
+0028CC78  0040C518 (00000003, 0028CC9C, 80000100, 612F166C)
+0028CD28  61007A3F (00000000, 0028CD84, 61006A70, 00000000)
+End of stack trace
